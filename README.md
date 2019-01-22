@@ -8,4 +8,5 @@ An example of how the mean shift algorithm can be used to find segments(clusters
 cd project
 
 python3 run main.py
+
 python3 run vanilla_main.py
